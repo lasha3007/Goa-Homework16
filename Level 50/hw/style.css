@@ -1,0 +1,9 @@
+.but{
+    background-color: black;
+    width: 5em;
+}
+
+.but:hover{
+    background-color: rgb(187, 133, 113);
+    transition: 2s;
+}
